@@ -1,0 +1,6 @@
+experiment,normal,disturbed,reduced,pval_14hpf_wt
+14hpf_wt,97,18,3,1.0
+14hpf_triplMut,20,31,83,9.99990000099999e-06
+tripleMut+/-,77,10,40,9.99990000099999e-06
+metrn-/-,47,48,34,9.99990000099999e-06
+metrnl1-/-,84,33,41,9.99990000099999e-06

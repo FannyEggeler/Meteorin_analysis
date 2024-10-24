@@ -1,1 +1,3 @@
-# Meteorin_analysis
+# p-values calculations for multinomial distribution
+
+This repository contains a notebook used to calculate p-values for different multinomial distributions...

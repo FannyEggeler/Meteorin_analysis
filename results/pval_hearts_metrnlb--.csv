@@ -1,0 +1,10 @@
+experiment,D-loop,mild/no loop,S-loop,pval_metrnlb-/-
+2dpf_wt,107,14,0,0.006829931700682993
+2dpf_triplMut,50,34,47,9.99990000099999e-06
+ 2dpf_metrnl1-/-,30,54,20,9.99990000099999e-06
+2dpf_metrn-/-,82,39,11,0.07726922730772692
+2dpf_triplMut_metrnl1 mRNA,60,85,15,9.99990000099999e-06
+2dpf_ triplMut_metrn mRNA,71,66,19,1.999980000199998e-05
+2dpf_ triplMut _metrnl1+metrn mRNA,85,44,33,0.00043999560004399956
+2dpf_triplMut+/-,155,26,1,0.03248967510324897
+metrnlb-/-,77,22,5,1.0
